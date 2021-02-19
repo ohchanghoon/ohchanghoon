@@ -5,6 +5,10 @@
   </div>
   
   ## Back-End Developer : Chang Hoon👋
+  
+  # 😄 1995.04.29
+  # 📫 dhckdgns3@naver.com
+  # 📫 010-8969-7698
 
 <!--
 **ohchanghoon/ohchanghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

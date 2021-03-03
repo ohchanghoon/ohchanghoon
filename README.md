@@ -9,7 +9,11 @@
   ### 😄 1995.04.29
   ### 📫 010-8969-7698
  
-  #### [naver blog📫](https://blog.naver.com/dhckdgns3/)
+  #### <a href="https://blog.naver.com/dhckdgns3/">
+    <img
+        src="http://img.shields.io/badge/-Naver blog-black?style=flat&logo=Naver&link=https://blog.naver.com/dhckdgns3/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   #### [notion📫](https://www.notion.so/lovelyoch)
   
 <a href="https://instagram.com/dhckdgns">

@@ -14,6 +14,8 @@
         src="http://img.shields.io/badge/-Naver blog-black?style=flat&logo=Naver&link=https://blog.naver.com/dhckdgns3/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<br>
+
   #### [notion📫](https://www.notion.so/lovelyoch)
   
 <a href="https://instagram.com/dhckdgns">

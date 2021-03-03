@@ -20,7 +20,7 @@
 
 <a href="https://blog.naver.com/dhckdgns3/">
     <img
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Naver blog-black?style=flat&logo=Naver&link=https://blog.naver.com/dhckdgns3/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 

@@ -15,8 +15,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br>
-
-  #### [notion📫](https://www.notion.so/lovelyoch)
+<br>
 
 <a href="https://www.notion.so/lovelyoch/">
     <img
@@ -24,6 +23,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<br>
 <br>
 
 <a href="https://instagram.com/dhckdgns">

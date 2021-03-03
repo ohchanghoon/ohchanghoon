@@ -8,6 +8,7 @@
   
   ### 😄 1995.04.29
   ### 📫 010-8969-7698
+  <hr><hr>
  
  <a href="https://blog.naver.com/dhckdgns3/">
     <img

@@ -9,7 +9,8 @@
   ### 😄 1995.04.29
   ### 📫 dhckdgns3@naver.com
   ### 📫 010-8969-7698
-
+ 
+  ### [네이버 블로그](https://blog.naver.com/dhckdgns3/)
 <!--
 **ohchanghoon/ohchanghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

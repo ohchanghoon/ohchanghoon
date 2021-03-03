@@ -9,7 +9,7 @@
   ### 😄 1995.04.29
   ### 📫 010-8969-7698
  
-  #### <a href="https://blog.naver.com/dhckdgns3/">
+ <a href="https://blog.naver.com/dhckdgns3/">
     <img
         src="http://img.shields.io/badge/-Naver blog-black?style=flat&logo=Naver&link=https://blog.naver.com/dhckdgns3/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -22,11 +22,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://blog.naver.com/dhckdgns3/">
-    <img
-        src="http://img.shields.io/badge/-Naver blog-black?style=flat&logo=Naver&link=https://blog.naver.com/dhckdgns3/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 
 <!--
 **ohchanghoon/ohchanghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

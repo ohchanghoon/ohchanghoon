@@ -11,6 +11,12 @@
  
   #### [naver blog📫](https://blog.naver.com/dhckdgns3/)
   #### [notion📫](https://www.notion.so/lovelyoch)
+  
+  <a href="https://instagram.com/dhckdgns">
+    <img
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <!--
 **ohchanghoon/ohchanghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

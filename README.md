@@ -24,9 +24,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://instagram.com/dhckdgns">
+<a href="https://blog.naver.com/dhckdgns3/">
     <img
-        src="http://img.shields.io/badge/-blog-green?style=flat&logo=Naver&link=https://blog.naver.com/dhckdgns3/"
+        src="http://img.shields.io/badge/-Naver blog-03C75A?style=flat&logo=Naver&link=https://blog.naver.com/dhckdgns3/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 

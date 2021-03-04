@@ -22,8 +22,7 @@
     <img
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/lovelyoch/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>     
-### 알고리즘 공부
+</a>   알고리즘 공부
 
 <br>
 <br>

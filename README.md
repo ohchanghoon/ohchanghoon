@@ -10,7 +10,7 @@
   ### 📫 010-8969-7698
   <hr><hr>
  
- <a href="https://blog.naver.com/dhckdgns3/">
+ IT 공부 <a href="https://blog.naver.com/dhckdgns3/">
     <img
         src="http://img.shields.io/badge/-Naver blog-black?style=flat&logo=Naver&link=https://blog.naver.com/dhckdgns3/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<a href="https://www.notion.so/lovelyoch/">
+알고리즘 공부 <a href="https://www.notion.so/lovelyoch/">
     <img
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/lovelyoch/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<a href="https://instagram.com/dhckdgns">
+개인 공간 <a href="https://instagram.com/dhckdgns">
     <img
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

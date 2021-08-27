@@ -24,8 +24,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>   알고리즘 공부 -->
 
-<br>
-<br>
 
 <!--
 **ohchanghoon/ohchanghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

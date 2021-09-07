@@ -24,7 +24,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>   알고리즘 공부 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=창훈)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohchanghoon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

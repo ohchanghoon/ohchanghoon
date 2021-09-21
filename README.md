@@ -48,6 +48,7 @@
   <br>
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+   <img src="https://img.shields.io/badge/KakaoWork-white?logo=kakao&logoColor=yellow"/>
 </p>
 
 

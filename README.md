@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20ChangHoonOH%20%20&height=200&fontSize=100)
 
 
-<h3 align="center">👋Hi, there👋</h3>
+<!-- <h3 align="center">👋Hi, there👋</h3> -->
  <p align="center"> I'm Changhoon Oh, a growing developer�🌱</p>
 <!--   <h3 align="center">Back-End Developer : Chang Hoon👋</h3>
   <h3 align="center">😄 1995.04.29</h3>
@@ -13,7 +13,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>   알고리즘 공부 -->
 
-<h3 align="center">•••</h3>
+<!-- <h3 align="center">•••</h3> -->
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2304BFC9&title_bg=%230808D5&icon=github.svg&icon_color=%23C2E51A&title=hits&edge_flat=false"/></a>  
   </div>
@@ -34,21 +34,23 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
  -->
   <p align="center">
-  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-TYPESCRIPT-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
   <img src="https://img.shields.io/badge/-Express-yellow"/>
+  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <img src="https://img.shields.io/badge/-MariaDB-navy"/>
   <img src="https://img.shields.io/badge/-MongoDB-green"/>
+  <img src="https://img.shields.io/badge/-Redis-red"/>
+  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
-   <img src="https://img.shields.io/badge/KakaoWork-white?logo=kakao&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/KakaoWork-white?logo=kakao&logoColor=yellow"/>
 </p>
 
 

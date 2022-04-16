@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/-Express-yellow"/>
   <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <img src="https://img.shields.io/badge/-MariaDB-navy"/>

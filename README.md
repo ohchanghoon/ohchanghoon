@@ -35,12 +35,13 @@
  -->
   <p align="center">
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
-<!--   <img src="https://img.shields.io/badge/-TYPESCRIPT-blue"/>&nbsp -->
+  <img src="https://img.shields.io/badge/-TYPESCRIPT-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
   <img src="https://img.shields.io/badge/-Express-yellow"/>
-  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Nest-red"/>
   <br>
+   
+  <img src="https://img.shields.io/badge/-Postgres-blue"/>
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <img src="https://img.shields.io/badge/-MariaDB-navy"/>
   <img src="https://img.shields.io/badge/-MongoDB-green"/>

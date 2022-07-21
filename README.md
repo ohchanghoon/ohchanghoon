@@ -2,7 +2,7 @@
 
 
 <!-- <h3 align="center">👋Hi, there👋</h3> -->
- <p align="center"> I'm Changhoon Oh, a growing developer�🌱</p>
+ <p align="center"> a growing developer�🌱</p>
 <!--   <h3 align="center">Back-End Developer : Chang Hoon👋</h3>
   <h3 align="center">😄 1995.04.29</h3>
    -->

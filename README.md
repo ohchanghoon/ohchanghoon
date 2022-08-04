@@ -36,9 +36,9 @@
   <p align="center">
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-TYPESCRIPT-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
+  <img src="https://img.shields.io/badge/-NodeJs-yellow"/>
   <img src="https://img.shields.io/badge/-Express-yellow"/>
-  <img src="https://img.shields.io/badge/-Nest-red"/>
+  <img src="https://img.shields.io/badge/-NestJs-red"/>
   <br>
    
   <img src="https://img.shields.io/badge/-Postgres-blue"/>

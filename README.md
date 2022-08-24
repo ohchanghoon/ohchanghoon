@@ -27,5 +27,3 @@
  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
  <img src="https://img.shields.io/badge/KakaoWork-white?logo=kakao&logoColor=yellow"/>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohchanghoon)](https://github.com/anuraghazra/github-readme-stats) <br/>

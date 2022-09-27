@@ -15,6 +15,8 @@
  <img src= "https://img.shields.io/badge/NestJs-E0234E?logo=NestJs&logoColor=white"/>
  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white">
  <br>
+ 
+
 
  <img src="https://img.shields.io/badge/-Postgres-blue"/>
  <img src="https://img.shields.io/badge/-MySQL-navy"/>
@@ -27,3 +29,8 @@
  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
  <img src="https://img.shields.io/badge/KakaoWork-white?logo=kakao&logoColor=yellow"/>
 </p>
+
+ <div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohchanghoon&count_private=true&show_icons=true&theme=highcontrast)
+ </div>

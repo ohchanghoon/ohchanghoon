@@ -16,7 +16,7 @@
 ### Back
 
 - NodeJS, ExpressJS, NestJS
-- TypeORM
+- TypeORM, Sequelize
 - PostgreSQL, MySQL, MariaDB, Redis
 
 ### DevOps

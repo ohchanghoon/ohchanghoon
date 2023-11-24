@@ -6,8 +6,8 @@
 ### 🖥  Career
 | Date              | Organization   | Job                | Team                |
 |-------------------|----------------|--------------------|---------------------|
-| 2021.10 ~   ing   | FruitsFamily | Software developer | Product development |
-| 2021.01 ~ 2021.09 | WAVLE          | Software developer | Service development |
+| 2022.10 ~   ing   | FruitsFamily | Software developer | Product development |
+| 2022.01 ~ 2021.09 | WAVLE          | Software developer | Service development |
 
 ### ⚙️ Tech
 

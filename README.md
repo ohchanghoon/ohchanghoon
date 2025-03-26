@@ -7,4 +7,4 @@
 | Date              | Organization   | Job                | Team                |
 |-------------------|----------------|--------------------|---------------------|
 | 2022.10 ~   ing   | FruitsFamily | Software developer | Product development |
-| 2021.09 ~ 2022.01 | WAVLE          | Software developer | Service development |
+| 2021.01 ~ 2022.09 | WAVLE          | Software developer | Service development |

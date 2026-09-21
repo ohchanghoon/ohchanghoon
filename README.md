@@ -11,10 +11,11 @@
 - **WAVLE** — Software developer, Service development `2021.01 ~ 2022.09`
 
 ### 📱 Personal Project
-**기습** — 사소한 기억이 습관이 되는 순간, OTT 콘텐츠 통합 관리 & 감상 기록 앱  
-[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/%EA%B8%B0%EC%8A%B5-%EC%82%AC%EC%86%8C%ED%95%9C-%EA%B8%B0%EC%96%B5%EC%9D%B4-%EC%8A%B5%EA%B4%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%88%9C%EA%B0%84/id6760226402)
 
-**농땡이** — 친구, 채팅, 오픈채팅, 커뮤니티를 한 곳에
+**기습** — 사소한 기억이 습관이 되는 순간, OTT 콘텐츠 통합 관리 & 감상 기록 앱  
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6760226402)
+
+**농땡이** — 친구, 채팅, 오픈채팅, 커뮤니티를 한 곳에  
 [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6790798673)
 
 
